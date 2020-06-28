@@ -1,0 +1,67 @@
+[
+    {
+        "show": false,
+        "mark": 0
+    },
+    {
+        "title": "生活服务",
+        "show": true,
+        "bool": false,
+        "mark": 1,
+        "contentArr": [
+            "全部", "鲜花", "婚庆"
+        ]
+    },
+    {
+        "title": "时尚购",
+        "show": true,
+        "bool": false,
+        "mark": 2,
+        "contentArr": [
+            "全部", "鲜花", "超市/便利店"
+        ]
+    },
+    {
+        "title": "结婚",
+        "show": true,
+        "bool": false,
+        "mark": 3,
+        "contentArr": [
+            "全部", "婚庆公司"
+        ]
+    },
+    {
+        "title": "推荐商圈",
+        "show": true,
+        "bool": false,
+        "mark": 4,
+        "contentArr": [
+            "科技大学", "台东", "万达广场", "隐珠", "万达CBD", "家佳源佳世客", "滨海学院", "世纪公园",
+            "海王路", "马濠公园", "宏程新天地", "香港中路沿线"
+        ]
+    },
+    {
+        "title": "市北区",
+        "show": true,
+        "bool": false,
+        "mark": 5,
+        "contentArr": [
+            "全部", "南京路北段", "台东步行街", "科技街", "小村庄", "海琴广场", "新业广场", "浮山后"]
+    },
+    {
+        "title": "市南区",
+        "show": true,
+        "bool": false,
+        "mark": 6,
+        "contentArr": [
+            "全部", "浮山所", "香港中路沿线", "火车站/团岛", "湛山/太平角", "云霄路", "中联广场", "麦凯乐"]
+    },
+    {
+        "title": "李沧区",
+        "show": true,
+        "bool": false,
+        "mark": 7,
+        "contentArr": [
+            "全部", "九水东路", "书院路", "李沧宝龙", "维客广场", "李村公园", "君峰路", "沿线万年泉路"]
+    }
+]

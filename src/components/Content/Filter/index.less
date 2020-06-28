@@ -1,0 +1,115 @@
+.fliter-box{
+    position: relative;
+    width: 950px;
+    min-height: 100px;
+    background: #FFFFFF;
+    border: 1px solid #E5E5E5;
+    border-radius: 4px;
+    color: #333;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+    .filter-component{
+        display: flex;
+        width: 100%;
+        padding: 15px 20px 0px;
+        box-sizing: border-box;
+        .label{
+            display: flex;
+            width: 160px;
+            label{
+                display: block;
+                width: 80px;
+                line-height: 22px;
+                height: 22px;
+            }
+            span{
+                display: block;
+                padding: 0 10px;
+                line-height: 22px;
+                height: 22px;
+                border-radius: 100px;
+                background: linear-gradient(to bottom right,#FFD000,#FFBD00);
+                color: #222222;
+                cursor: pointer;
+            }
+        }
+        .tags{
+            width: calc(100% - 160px);
+            ul{
+                display: flex;
+                list-style: none;
+                padding-bottom: 15px;
+                flex-wrap: wrap;
+                li{
+                    width: 120px;
+                    line-height: 22px;
+                    height: 22px;
+                    font-size: 14px;
+                    color: #666;
+                    cursor: pointer;
+                }
+            }
+            ul.info-title{
+                border-bottom: 1px solid #E5E5E5;
+            }
+        }
+    }
+    .popover{
+        display: none;
+        position: absolute;
+        max-width: 510px;
+        margin-top: 10px;
+        padding: 10px;
+        background: #FFFFFF;
+        border: 1px solid #E5E5E5;
+        border-radius: 4px;
+        color: #333;
+        font-size: 14px;
+        font-weight: 500;
+        box-sizing: border-box;
+        z-index: 3;
+        dl{
+            display: flex;
+            flex-wrap: wrap;
+            dt{
+                width: 100%;
+                color: #ccc;
+                font-size: 16px;
+                margin-bottom: 11px;
+                flex: 0 0 auto;
+            }
+            dd{
+                margin: 10px 0px;
+                margin-right: 10px;
+                color: #666;
+                font-size: 12px;
+            }
+        }
+    }
+    .popover.active{
+        display: block;
+    }
+    .popover::before{
+        position: absolute;
+        top: -7px;
+        left: 14px;
+        content: "";
+        width: 0;
+        height: 0;
+        border-left: 6px solid transparent;
+        border-right: 6px solid transparent;
+        border-bottom: 6px solid #ccc;
+        border-top: 0;
+    }
+    .popover::after{
+        position: absolute;
+        top: -12px;
+        left: 14px;
+        content: "";
+        width: 0;
+        height: 0;
+        border: 6px solid transparent;
+        border-color: transparent transparent #fff transparent;
+    }
+}

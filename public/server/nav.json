@@ -1,0 +1,84 @@
+{
+    "data": [
+        {
+            "class": "#icon-xican",
+            "title": "美食",
+            "id": 12345678901
+        },
+        {
+            "class": "#icon-danche",
+            "title": "外卖",
+            "id": 12345678902
+        },
+        {
+            "class": "#icon-jiudian",
+            "title": "酒店",
+            "id": 12345678903
+        },
+        {
+            "class": "#icon-house-add",
+            "title": "民宿",
+            "id": 12345678904
+        },
+        {
+            "class": "#icon-cat",
+            "title": "猫眼电影",
+            "id": 12345678905
+        },
+        {
+            "class": "#icon-feiji",
+            "title": "机票 / 火车票",
+            "id": 12345678906
+        },
+        {
+            "class": "#icon-huatong",
+            "title": "休闲娱乐 / KTV",
+            "id": 12345678907
+        },
+        {
+            "class": "#icon-home",
+            "title": "生活服务",
+            "id": 12345678908
+        },
+        {
+            "class": "#icon-yaoqinghaoyou",
+            "title": "丽人 / 美发 / 医学美容",
+            "id": 12345678909
+        },
+        {
+            "class": "#icon-duijie",
+            "title": "结婚 / 婚纱摄影 / 婚宴",
+            "id": 123456789010
+        },
+        {
+            "class": "#icon-haizi",
+            "title": "亲子 / 儿童乐园 / 幼教",
+            "id": 123456789011
+        },
+        {
+            "class": "#icon-Dumbbells",
+            "title": "运动健身 / 健身中心",
+            "id": 123456789012
+        },
+        {
+            "class": "#icon-fenshua",
+            "title": "家装 / 建材 / 家居",
+            "id": 123456789013
+        },
+        {
+            "class": "#icon-book-2",
+            "title": "学习培训 / 音乐培训",
+            "id": 123456789014
+        },
+        {
+            "class": "#icon-kangfuzhongxin-copy",
+            "title": "医疗健康 / 宠物 / 爱车",
+            "id": 123456789015
+        },
+        {
+            "class": "#icon-jiuba_iconguoyin--",
+            "title": "酒吧 / 密室逃脱",
+            "id": 123456789016
+        }
+    ]
+}

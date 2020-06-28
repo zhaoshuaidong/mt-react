@@ -1,0 +1,74 @@
+{
+    "data": [
+        {
+            "title": "分类",
+            "subTitle": "全部",
+            "colIndex": 0,
+            "className": "info-title",
+            "list": [
+                {
+                    "title": "美食",
+                    "show": false,
+                    "rowIndex": 0,
+                    "mark": 0
+                },
+                {
+                    "title": "生活服务",
+                    "show": true,
+                    "bool": false,
+                    "rowIndex": 1,
+                    "mark": 1
+                },
+                {
+                    "title": "时尚购",
+                    "show": true,
+                    "bool": false,
+                    "rowIndex": 2,
+                    "mark": 2
+                },
+                {
+                    "title": "结婚",
+                    "show": true,
+                    "bool": false,
+                    "rowIndex": 3,
+                    "mark": 3
+                }
+            ]
+        },
+        {
+            "title": "区域",
+            "subTitle": "全部",
+            "colIndex": 1,
+            "list": [
+                {
+                    "title": "推荐商圈",
+                    "show": true,
+                    "bool": false,
+                    "rowIndex": 0,
+                    "mark": 4
+                },
+                {
+                    "title": "市北区",
+                    "show": true,
+                    "bool": false,
+                    "rowIndex": 1,
+                    "mark": 5
+                },
+                {
+                    "title": "市南区",
+                    "show": true,
+                    "bool": false,
+                    "rowIndex": 2,
+                    "mark": 6
+                },
+                {
+                    "title": "李沧区",
+                    "show": true,
+                    "bool": false,
+                    "rowIndex": 3,
+                    "mark": 7
+                }
+            ]
+        }
+    ]
+}

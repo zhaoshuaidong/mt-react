@@ -1,0 +1,154 @@
+.header-top{
+    display: flex;
+    width: 1200px;
+    height: 40px;
+    background-color: #F8F8F8;
+    box-sizing: border-box;
+    justify-content: space-between;
+    margin: 0 auto;
+    .top-left{
+        height: 40px;
+        font-size: 13px;
+        text-align: center;
+        line-height: 40px;
+        color: #666666;
+        cursor: pointer;
+        .change-city{
+            margin: 0 4px;
+            padding: 0 2px;
+            font-size: 11px;
+            border: 1px solid #E5E5E5;
+            background: #F4F4F4;
+            border-radius: 2px;
+            color: #666;
+            cursor: pointer;
+            a{
+                color: #666; 
+            }
+            a:hover{
+                color: #fe8c00;
+                font-weight: 400;
+            }
+        }
+        .registered:hover{
+            color: #fe8c00;
+            font-weight: 400;
+        }
+        .near-city a{
+            font-size: 12px;
+            text-decoration: none;
+            color: #666666;
+            cursor: pointer;
+        }
+        .near-city a:hover{
+            color: #fe8c00;
+            font-weight: 400;
+        }
+        .login{
+            margin-left: 20px;
+            color: #fe8c00;
+        }
+        .registered{
+            margin-left: 10px;
+        }
+    }
+    .top-right{
+        text-align: center;
+        font-size: 13px;
+        color: #666666;
+        
+        dl{
+            display: flex;
+            width: 390px;
+            height: 40px;
+            line-height: 40px;
+            box-sizing: border-box;
+            justify-content: space-between;
+            list-style: none;
+            dt{
+                position: relative;
+                cursor: pointer;
+                padding: 0 10px;
+                box-sizing: border-box;
+                .list{
+                    display: none;
+                    position: absolute;
+                    left: 0px;
+                    width: 72px;
+                    color: #666666;
+                    z-index: 999;
+                    p{
+                        margin-bottom: 0;
+                    }
+                    .header-list{
+                        display: flex;
+                        padding: 0 20px;
+                        padding-bottom: 20px;
+                        box-sizing: border-box;
+                        justify-content: space-between;
+                        .header-nav-third{
+                            ul{
+                                display: flex;
+                                padding: 0 5px;
+                                list-style: none;
+                                font-size: 12px;
+                                color: #666666;
+                                flex-wrap: wrap;
+                                box-sizing: border-box;
+                                align-items: center;
+                                justify-content: center;
+                                li{
+                                    margin: 0 5px;
+                                    padding: 0 3px;
+                                    height: 30px;
+                                    box-sizing: border-box;
+                                    word-break:keep-all;
+                                    img{
+                                        width: 50px;
+                                        height: 50px;
+                                    }
+                                }
+                                li:hover{
+                                    color: #fe8c00;
+                                }
+                            }
+                        }
+                        .header-jiulv{
+                            width: 234px;
+                        }
+                        .header-meishi{
+                            width: 156px;
+                        }
+                        .header-movie{
+                            width: 90px;
+                        }
+                    }
+                }
+                .list.business{
+                    width: 120px;
+                    left: -48px;
+                }
+
+            }
+            dt:nth-of-type(1):hover,dt:nth-of-type(3):hover,dt:nth-of-type(4):hover,dt:nth-of-type(5):hover{
+                color: #FE8C00;
+                background-color: #fff;
+                border-color: #E5E5E5;
+                box-shadow: 0 3px 5px 0 rgba(0,0,0,0.1);
+            }
+            dt:nth-of-type(2):hover{
+                color:#FE8C00;
+            }
+            dt:hover .list{
+                display: block;
+                background-color: #fff;
+                border-color: #E5E5E5;
+                box-shadow: 0 3px 5px 0 rgba(0,0,0,0.1);
+            }
+            p:hover{
+                color: #FE8C00;
+            }
+            
+        }
+    }
+}

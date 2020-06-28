@@ -1,0 +1,93 @@
+.main-article{
+    margin-top: 30px;
+    .main-article-title{
+        dl{
+            background-color: rgb(88, 174, 221);
+            background-image: linear-gradient(to right, rgb(88, 174, 221) 2%, rgb(66, 191, 205) 97%) rgb(88, 174, 221) !important;
+        }
+    }
+    dl{
+        display: flex;
+        width: 100%;
+        height: 44px;
+        text-align: center;
+        border-top-left-radius: 4px;
+        border-top-right-radius: 4px;
+        background-color: rgb(190, 164, 116);
+        // background-image: linear-gradient(to right, rgb(194, 176, 142) 3%, rgb(190, 164, 116) 100%);
+        justify-content: flex-start;
+        dt,dd{
+            font-size: 18px;
+            color: #fff;
+            line-height: 44px;
+            margin: 0 5px;
+            cursor: pointer;
+        }
+        dd{
+            position: relative;
+            font-size: 14px;
+        }
+        .active::after{
+            position: absolute;
+            border-left: 5px solid transparent;
+            border-right: 5px solid transparent;
+            border-bottom: 7px solid #fff;
+            content: " ";
+            display: block;
+            width: 2px;
+            height: 0;
+            top: 38px;
+            left: 0;
+            right: 0;
+            margin: auto;
+        }
+    }
+}
+.main-article-item.itemactive{
+    margin-top: -15px;
+    ul{
+        display: flex;
+        width: 100%;
+        flex-wrap: wrap;
+        padding: 10px 10px 0;
+        list-style: none;
+        border: 1px solid #ccc;
+        border-top: none;
+        box-sizing: border-box;
+        li{
+            width: 210px;
+            height: 220px;
+            margin: 5px 12px;
+            cursor: pointer;
+            .quality-img{
+                width: 100%;
+                height: 120px;
+            }
+            img{
+                width: 100%;
+                height: 100%;
+                border-radius: 4px;
+            }
+            .article-item-info{
+                width: 100%;
+                height: 92px;
+                .info-sub-title{
+                    display: flex;
+                    padding-right: 20px;
+                    box-sizing: border-box;
+                }
+                .info-price{
+                    .old-price{
+                        font-weight: bold;
+                        text-decoration: none;
+                    }
+                }
+            }
+        }
+        li:hover{
+            background-color: #F4F4F4;
+        }
+    }
+    
+}
+

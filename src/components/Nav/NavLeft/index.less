@@ -1,0 +1,90 @@
+.nav-left{
+    position: relative;
+    width: 231px;
+    text-align: left;
+    background: #FFF;
+    color: #222222;
+    border: 1px solid #E5E5E5;
+    border-top: none;
+    z-index: 3;
+    ul{
+        margin-top: 10px;
+        list-style: none;
+        li{
+            display: flex;
+            margin: 0px 0;
+            padding: 6px 10px;
+            box-sizing: border-box;
+            font-size: 13px;
+            line-height: 8px;
+            height: 24px;
+            color: #646464;
+            justify-content: space-between;
+            cursor: pointer;
+            i{
+                line-height: 13px;
+                height: 20px;
+            }
+        }
+        li:hover{
+            background: rgba(255,150,0,0.08);
+            color: #222222;
+            font-weight: bold;
+        }
+    }
+    .content-view{
+        display: none;
+        position: absolute;
+        color: #646464;
+        top: 10px;
+        left: 229px;
+        width: 450px;
+        height: 390px;
+        background: #FFF;
+        box-sizing: border-box;
+        border: 1px solid #E5E5E5;
+        z-index: 999;
+        .content-view-title{
+            display: flex;
+            margin: 5px 0;
+            padding: 5px 22px;
+            font-size: 16px;
+            color: #222;
+            cursor: pointer;
+            box-sizing: border-box;
+            justify-content: space-between;
+            div{
+                margin-top: 5px;
+                color: #646464;
+                font-size: 13px;
+            }
+        }
+        .content-view-detail{
+            display: flex;
+            width: 90%;
+            margin: 0px auto;
+            border-top: 1px solid rgba(0,0,0,.3);
+            font-size: 13px;
+            flex-wrap: wrap;
+            justify-content: flex-start;
+            span{
+                margin: 7px 0;
+                margin-right: 10px;
+                cursor: pointer;
+            }
+            span:hover{
+                color: #fe8c00;
+            }
+        }
+    }
+    .content-view.active{
+        display: block;
+    }
+}
+.icon {
+    width: 1em;
+    height: 1em;
+    vertical-align: -0.15em;
+    fill: currentColor;
+    overflow: hidden;
+}

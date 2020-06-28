@@ -1,0 +1,25 @@
+{
+    "data":[
+        {
+            "src": "https://p1.meituan.net/mogu/03de93cae2a4ae1223004dda3b4e00e4676892.jpg@237w_132h_1e_1c",
+            "title": "醉爱渔火鱼火锅（泊里店）",
+            "value": 4,
+            "evaluation": 216,
+            "price": 78
+        },
+        {
+            "src": "https://p0.meituan.net/bbia/810b89403bf0e37377f46030c66fe658294326.jpg@237w_132h_1e_1c",
+            "title": "汤响自助回转火锅百汇（麦凯乐店）",
+            "value": 4,
+            "evaluation": 5198,
+            "price": 58.9
+        },
+        {
+            "src": "https://p1.meituan.net/bbia/6d3a77a90faf98516a67e4d5e38d844931100.jpg@237w_132h_1e_1c",
+            "title": "帕西春川铁板鸡（家佳源店）",
+            "value": 5,
+            "evaluation": 17564,
+            "price": 48
+        }
+    ]
+}

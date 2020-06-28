@@ -1,0 +1,94 @@
+{
+    "data": [
+        {
+            "src": "https://p1.meituan.net/180.180/dpdeal/d49e0e1d3b67ad400f814a585cdb5b47426874.jpg@275w_156h_1e_1c",
+            "topList": [{
+                "title": "常春藤花艺",
+                "score": 4.4,
+                "comment": 14,
+                "place": "鲜花店|台东步行街市北区聚仙路8号2单元103户",
+                "price": 88
+            }],
+            "botList": [
+                {
+                    "title": "经典单层开业花篮",
+                    "price": 98,
+                    "storePrice": 208,
+                    "sell": 45
+                },
+                {
+                    "title": "33朵红玫瑰花束=三生三世",
+                    "price": 178,
+                    "storePrice": 499,
+                    "sell": 18
+                },
+                {
+                    "title": "99朵红玫瑰花束",
+                    "price": 288,
+                    "storePrice": 799,
+                    "sell": 13
+                }
+            ]
+        },
+        {
+            "src": "https://p1.meituan.net/merchantpic/40f8632906c6a2ef2da862835d48a6a3104802.jpg@275w_156h_1e_1c",
+            "topList": [{
+                "title": "天雨鲜花店",
+                "score": 5,
+                "comment": 525,
+                "place": "鲜花店|维客/百货商圈平度市红旗路210号大会堂对面（帝王购物广场西侧）",
+                "price": 111
+            }],
+            "botList": [
+                {
+                    "title": "11朵玫瑰或16朵康乃馨百合弗朗混搭花束",
+                    "price": 88,
+                    "storePrice": 398,
+                    "sell": 448
+                },
+                {
+                    "title": "【一心一意】11支玫瑰精品礼盒加卡片",
+                    "price": 88,
+                    "storePrice": 568,
+                    "sell": 118
+                },
+                {
+                    "title": "【长长久久】19朵精品玫瑰礼盒加卡片",
+                    "price": 128,
+                    "storePrice": 999,
+                    "sell": 183
+                }
+            ]
+        },
+        {
+            "src": "https://p1.meituan.net/dpmerchantalbum/f522e5a6bd1e25100163a903eab40e4f85657.jpg@275w_156h_1e_1c",
+            "topList": [{
+                "title": "The only鲜花坊",
+                "score": 4.2,
+                "comment": 19,
+                "place": "鲜花店|维客广场李沧区夏庄路1号乐客城负二层DB2006",
+                "price": 196
+            }],
+            "botList": [
+                {
+                    "title": "日落归山而你归我(无接触配送)",
+                    "price": 109,
+                    "storePrice": 186,
+                    "sell": 54
+                },
+                {
+                    "title": "恋爱这个东西 对方是你才有趣",
+                    "price": 29.9,
+                    "storePrice": 89,
+                    "sell": 13
+                },
+                {
+                    "title": "眼前人是心上人（无接触配送）",
+                    "price": 189,
+                    "storePrice": 296,
+                    "sell": 23
+                }
+            ]
+        }
+    ]
+}

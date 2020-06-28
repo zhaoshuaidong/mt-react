@@ -1,0 +1,187 @@
+{
+    "data": {
+        "title": "有格调",
+        "navArr": [{"title": "全部", "bool": true}, {"title":"约会聚餐", "bool": false}, {"title":"丽人SPA","bool": false}],
+        "content": [
+            {
+                "contentArr": [
+                    {
+                        "imgSrc": "//p0.meituan.net/msmerchant/85df19ccb76db607086cf05e75d7e819177075.jpg@460w_260h_1e_1c",
+                        "title": "红豆蛋糕鲜花屋（中心医院店）",
+                        "subTitle": "抹茶坯子1个，约6英寸，圆形",
+                        "symbol": "￥",
+                        "price": "2.8",
+                        "shopPrice": "门市价￥8",
+                        "id": 12345601
+                    },
+                    {
+                        "imgSrc": "//p0.meituan.net/bbia/850ce195a4db8d447644429ac6e32c20330100.jpg@460w_260h_1e_1c",
+                        "title": "小糖人儿花漾cake",
+                        "subTitle": "蛋糕38选1,约1磅,圆形",
+                        "symbol": "￥",
+                        "price": "89",
+                        "shopPrice": "门市价￥189",
+                        "id": 12345602
+                    },
+                    {
+                        "imgSrc": "//p0.meituan.net/mogu/deb804579459c78a4e1af5ab10216c13215552.jpg@460w_260h_1e_1c",
+                        "title": "红豆蛋糕(一面街电)",
+                        "subTitle": "6英寸鲜奶蛋糕1个,约6英寸,圆形",
+                        "symbol": "￥",
+                        "price": "9.9",
+                        "shopPrice": "门市价￥48",
+                        "id": 12345603
+                    },
+                    {
+                        "imgSrc": "//p0.meituan.net/mogu/50050d48c53c77db0ebc64ce806f7fe371602.jpg@460w_260h_1e_1c",
+                        "title": "圣源烘焙坊",
+                        "subTitle": "快乐永远1个，约8英寸，圆形",
+                        "symbol": "￥",
+                        "price": "69",
+                        "shopPrice": "门市价￥108",
+                        "id": 12345604
+                    },
+                    {
+                        "imgSrc": "//p1.meituan.net/msmerchant/83ba5a68a117ffa031b92e74935056ef427765.jpg@460w_260h_1e_1c",
+                        "title": "红樱桃鲜花蛋糕店",
+                        "subTitle": "12水果巧克力1个，约12英寸，圆",
+                        "symbol": "￥",
+                        "price": "118.8",
+                        "shopPrice": "门市价¥258",
+                        "id": 12345605
+                    },
+                    {
+                        "imgSrc": "//p0.meituan.net/deal/__49266651__3284274.jpg@460w_260h_1e_1c",
+                        "title": "口口香生日蛋糕",
+                        "subTitle": "蛋糕4选1,约10英寸",
+                        "symbol": "￥",
+                        "price": "46",
+                        "shopPrice": "门市价¥58",
+                        "id": 12345606
+                    }
+                ],
+                "bool": true
+            },
+            {
+                "contentArr":[
+                    {
+                        "imgSrc": "//p0.meituan.net/bbia/ab93f0e02f8825e3af555691fda5a7943728906.jpg@275w_156h_1e_1c",
+                        "title": "鑫和农家院",
+                        "subTitle": "农家菜",
+                        "symbol": "￥",
+                        "price": "90",
+                        "shopPrice": "门市价￥198",
+                        "id": 1234567801
+                    },
+                    {
+                        "imgSrc": "//p1.meituan.net/msmerchant/0957fbc01a3c2f3986600bd4e80d72f81751062.jpg@275w_156h_1e_1c",
+                        "title": "民国往事文化主题餐厅",
+                        "subTitle": "川菜",
+                        "symbol": "￥",
+                        "price": "50",
+                        "shopPrice": "门市价￥110",
+                        "id": 1234567802
+                    },
+                    {
+                        "imgSrc": "//p1.meituan.net/deal/b1a3101c41c9d1648843698d4128c85e461337.jpg@275w_156h_1e_1c",
+                        "title": "盆盆香山寨鱼头王（伊嘉园店",
+                        "subTitle": "川菜",
+                        "symbol": "￥",
+                        "price": "40",
+                        "shopPrice": "门市价￥108",
+                        "id": 1234567803
+                    },
+                    {
+                        "imgSrc": "//p1.meituan.net/poi/ca360aae28e74ac64ec0dae71c290fd957344.jpg@275w_156h_1e_1c",
+                        "title": "富东饭店",
+                        "subTitle": "东北菜",
+                        "symbol": "￥",
+                        "price": "59",
+                        "shopPrice": "门市价￥99",
+                        "id": 1234567804
+                    },
+                    {
+                        "imgSrc": "//p1.meituan.net/msmerchant/cccf40b2ee01805198e8d28aab15f6ba3953100.jpg@275w_156h_1e_1c",
+                        "title": "邵汇大虾",
+                        "subTitle": "特色火锅",
+                        "symbol": "￥",
+                        "price": "72",
+                        "shopPrice": "门市价￥130",
+                        "id": 1234567805
+                    },
+                    {
+                        "imgSrc": "//p0.meituan.net/dealwatera/695dfda1ac7efc6422c12c69f0afec22116072.jpg@275w_156h_1e_1c",
+                        "title": "三源灶台院",
+                        "subTitle": "东北菜",
+                        "symbol": "￥",
+                        "price": "25",
+                        "shopPrice": "门市价￥68",
+                        "id": 1234567806
+                    }
+                ],
+                "bool": false
+            },
+            {
+                "contentArr": [
+                    {
+                        "imgSrc": "//p1.meituan.net/dpmerchantpic/f8296c592dbbc61c6a66faf2b93cfd5d474527.jpg@275w_157h_1e_1c",
+                        "title": "逸丝风尚yesfashion护肤造型会所（华威店）",
+                        "subTitle": "美发",
+                        "symbol": "￥",
+                        "price": "226",
+                        "shopPrice": "门市价￥300",
+                        "id": 123401
+                    },
+                    {
+                        "imgSrc": "//p1.meituan.net/dpmerchantpic/ef5cdf4bfdeb66c792271935842d6dea198873.jpg@275w_157h_1e_1c",
+                        "title": "爱剪单 HAIR SALON（尚都店）",
+                        "subTitle": "美发",
+                        "symbol": "￥",
+                        "price": "238",
+                        "shopPrice": "门市价￥299",
+                        "id": 123402
+                    },
+                    {
+                        "imgSrc": "//p1.meituan.net/merchantpic/fe596103eb0a588aef3f044fd906b3b6243262.jpg@275w_157h_1e_1c",
+                        "title": "MJ HAIR STYLE人气烫染沙龙（苏州街店",
+                        "subTitle": "美发",
+                        "symbol": "￥",
+                        "price": "364",
+                        "shopPrice": "门市价￥399",
+                        "id": 123403
+                    },
+                    {
+                        "imgSrc": "//p1.meituan.net/dpmerchantpic/e3ab2b72318adfc5084ff9aae6da4252276116.jpg@275w_157h_1e_1c",
+                        "title": "一颜美容养生SPA馆(痣疣培训魏公村店)",
+                        "subTitle": "美容SPA",
+                        "symbol": "￥",
+                        "price": "176",
+                        "shopPrice": "门市价￥299",
+                        "id": 123404
+                    },
+                    {
+                        "imgSrc": "//p1.meituan.net/merchantpic/b057ead1164d44f61a0c33761f492e8c1409264.jpg@275w_157h_1e_1c",
+                        "title": "Color Dance韩舞工作室",
+                        "subTitle": "其他舞蹈",
+                        "symbol": "￥",
+                        "price": "408",
+                        "shopPrice": "门市价￥459",
+                        "id": 123405
+                    },
+                    {
+                        "imgSrc": "//p1.meituan.net/dpmerchantpic/93911da9be03b98da876b388515e9b87977677.jpg@275w_157h_1e_1c",
+                        "title": "再清椿美容（朝阳门店）",
+                        "subTitle": "美容SPA",
+                        "symbol": "￥",
+                        "price": "89",
+                        "shopPrice": "门市价￥109",
+                        "id": 123406
+                    }
+                ],
+                "bool": false
+            }
+        ],
+        "id": 123456701
+        
+    }
+}

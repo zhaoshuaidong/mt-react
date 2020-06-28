@@ -1,0 +1,124 @@
+{
+    "data":[
+        {
+            "imgSrc": "https://p0.meituan.net/mogu/b469039e27175f18f63f7c10a46cf93917315.jpg@267w_150h_1e_1c",
+            "title": "蔡氏文昌盐焗鸡",
+            "value": 4,
+            "evaluation": 133,
+            "symbol": "￥",
+            "price": "60.0"
+        },
+        {
+            "imgSrc": "https://p0.meituan.net/deal/f96dc99f6be93cfbd1bc44d72365c8bc308540.jpg@267w_150h_1e_1c",
+            "title": "女王国际美业会所",
+            "value": 5,
+            "evaluation": 822,
+            "symbol": "￥",
+            "price": "35.0"
+        },
+        {
+            "imgSrc": "https://p0.meituan.net/mogu/430fba33140ccdd450dbddbf1fe41a1270739.jpg@267w_150h_1e_1c",
+            "title": "匠子烤鱼",
+            "value": 4,
+            "evaluation": 3045,
+            "symbol": "￥",
+            "price": "69.0"
+        },
+        {
+            "imgSrc": "https://p0.meituan.net/wedding/6fc1d9afe8469e954a9881285ac6c30c43208.jpg@267w_150h_1e_1c",
+            "title": "千色美会馆",
+            "value": 5,
+            "evaluation": 160,
+            "symbol": "￥",
+            "price": "68.0"
+        },
+        {
+            "imgSrc": "https://p1.meituan.net/msmerchant/34557e086e2248e63d43a34a538d331b122639.jpg@267w_150h_1e_1c",
+            "title": "哆思蛋糕",
+            "value": 5,
+            "evaluation": 1123,
+            "symbol": "￥",
+            "price": "68.0"
+        },
+        {
+            "imgSrc": "https://p0.meituan.net/msmerchant/0044d75d7f84d8265dd52ae15ce49c7256666.jpg@267w_150h_1e_1c",
+            "title": "汉堡大师（富海店）",
+            "value": 3.1,
+            "evaluation": 413,
+            "symbol": "￥",
+            "price": "9.9"
+        },
+        {
+            "imgSrc": "https://p1.meituan.net/msmerchant/24967c6d9bc7475caf97ac7cb9faec44104818.jpg@267w_150h_1e_1c",
+            "title": "丹姐大路煎牛肉猪肚煲鸡",
+            "value": 4.5,
+            "evaluation": 576,
+            "symbol": "￥",
+            "price": "108"
+        },
+        {
+            "imgSrc": "https://p0.meituan.net/deal/98a835c9454fa99311e66c5837272cd340752.jpg@267w_150h_1e_1c",
+            "title": "甜缘创意料理",
+            "value": 4.8,
+            "evaluation": 164,
+            "symbol": "￥",
+            "price": "1.0"
+        },
+        {
+            "imgSrc": "https://p0.meituan.net/msmerchant/abd53943d293e81197d16661094b2611513799.jpg@267w_150h_1e_1c",
+            "title": "芳姐碳烤羊腿",
+            "value": 4,
+            "evaluation": 3775,
+            "symbol": "￥",
+            "price": "19.8"
+        },
+        {
+            "imgSrc": "https://p1.meituan.net/bbia/1f67f4337b27f74fc351f6189c5052982378908.png@267w_150h_1e_1c",
+            "title": "美石记石锅拌饭",
+            "value": 4,
+            "evaluation": 4418,
+            "symbol": "￥",
+            "price": "13.8"
+        },
+        {
+            "imgSrc": "https://p1.meituan.net/msmerchant/9e4ab6a2dee23314c378f93e6581f509100103.jpg@267w_150h_1e_1c",
+            "title": "潮犇鲜牛肉火锅",
+            "value": 4.1,
+            "evaluation": 1401,
+            "symbol": "￥",
+            "price": "58.0"
+        },
+        {
+            "imgSrc": "https://p1.meituan.net/mogu/2b80e1d0044555f75cbf888d650a2262197522.jpg@267w_150h_1e_1c",
+            "title": "博鳌金湾海鲜自助餐厅（康斯宾悦度假酒店）",
+            "value": 5,
+            "evaluation": 1333,
+            "symbol": "￥",
+            "price": "109.0"
+        },
+        {
+            "imgSrc": "https://p1.meituan.net/mogu/b29c39fb39ab04bf3b1683816f3a46f3145011.jpg@267w_150h_1e_1c",
+            "title": "美石记烤肉（金海路店）",
+            "value": 4.2,
+            "evaluation": 1023,
+            "symbol": "￥",
+            "price": "88.0"
+        },
+        {
+            "imgSrc": "https://p1.meituan.net/msmerchant/d53ed71be55d80fcffb7635200aad644198747.jpg@267w_150h_1e_1c",
+            "title": "顺拾蒸海鲜蒸汽料理（琼海店）",
+            "value": 4,
+            "evaluation": 357,
+            "symbol": "￥",
+            "price": "9.0"
+        },
+        {
+            "imgSrc": "https://p0.meituan.net/deal/33c69bfdbca6d16f47511a9b6c927e89125988.jpg@267w_150h_1e_1c",
+            "title": "金凤凰足道馆（爱华路店）",
+            "value": 4.3,
+            "evaluation": 295,
+            "symbol": "￥",
+            "price": "99.0"
+        }
+    ]
+}

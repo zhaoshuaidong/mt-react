@@ -1,0 +1,552 @@
+{
+    "data": {
+        "title": "推荐民宿",
+        "navArr": [
+            {"title": "天津", "bool": true},
+            {"title": "济南", "bool": false},
+            {"title": "大连", "bool": false},
+            {"title": "太原", "bool": false},
+            {"title": "石家庄", "bool": false},
+            {"title": "秦皇岛", "bool": false},
+            {"title": "呼和浩特", "bool": false},
+            {"title": "潍坊", "bool": false},
+            {"title": "唐山", "bool": false},
+            {"title": "泰安", "bool": false}
+        ],
+        "content": [
+            {
+                "contentArr": [
+                    {
+                        "imgSrc": "https://img.meituan.net/phoenix/41b5105ad82f006cedb57cd89a5c57881114258.jpg@740w_416h_1e_1c",
+                        "title": "（安境）ins粉系北欧奥城近地铁天塔公园体育馆肿瘤医院大床公寓可开发票可做饭",
+                        "subTitle": "整套1居室·可住2人 | 时代奥城",
+                        "symbol": "￥",
+                        "price": "187",
+                        "id": 98765432101
+                    },
+                    {
+                        "imgSrc": "https://img.meituan.net/phoenix/3281e75dee91c41904cd7739c66cca17351749.jpg@740w_416h_1e_1c",
+                        "title": "【九月●美宿】NO.4/浓浓北欧情/鼓楼/古文化街/观天津之眼全景/100寸投影",
+                        "subTitle": "整套1居室·可住2人 | 老城厢/鼓楼",
+                        "symbol": "￥",
+                        "price": "108",
+                        "id": 98765432102
+                    },
+                    {
+                        "imgSrc": "https://img.meituan.net/phoenix/0638a52e2929a54ce75c616d466c2e00511756.jpg@740w_416h_1e_1c",
+                        "title": "【九月美宿】ins星空物语/鼓楼/古文化街/观天津之眼全景/100寸投影",
+                        "subTitle": "整套1居室·可住4人 | 老城厢/鼓楼",
+                        "symbol": "￥",
+                        "price": "108",
+                        "id": 98765432103
+                    },
+                    {
+                        "imgSrc": "https://img.meituan.net/phoenix/5abed38cb1cafcc9af9e7339ffdf7976532499.jpg@740w_416h_1e_1c",
+                        "title": "【九月美宿】ins星空梦幻/鼓楼/古文化街/观天津之眼全景/120寸投影",
+                        "subTitle": "整套1居室·可住2人 | 老城厢/鼓楼",
+                        "symbol": "￥",
+                        "price": "108",
+                        "id": 98765432104
+                    },
+                    {
+                        "imgSrc": "https://img.meituan.net/phoenix/c7afaaa4b3f96727ae28c40f53a380d7350864.jpg@740w_416h_1e_1c",
+                        "title": "【浪漫满屋】小熊之家 洛漪精装主题浴缸电影泡吧  武清站-情侣-做饭-社区食堂超市-佛罗伦萨一室一厅一厨卫一榻米民宿公寓",
+                        "subTitle": "整套1居室·可住4人 | 保利/亨通花园",
+                        "symbol": "￥",
+                        "price": "198",
+                        "id": 98765432105
+                    },
+                    {
+                        "imgSrc": "https://img.meituan.net/phoenix/18cb5963d20b4c499669af002c52367a1480948.jpg@740w_416h_1e_1c",
+                        "title": "ins美式乡村风格奥城近地铁口公园天塔体育馆肿瘤医院可开发票可做饭",
+                        "subTitle": "整套1居室·可住2人 | 时代奥城",
+                        "symbol": "￥",
+                        "price": "187",
+                        "id": 98765432106
+                    }
+                ],
+                "bool": true
+            },
+            {
+                "contentArr": [
+                    {
+                        "imgSrc": "http://p1.meituan.net/iphoenix/1431515cb8092ac20dead528f51fe5855397075.jpg@740w_416h_1e_1c",
+                        "title": "星海大观舒适大床房",
+                        "subTitle": "整套1居室·可住2人 | 星海广场、大连森林动物园",
+                        "symbol": "￥",
+                        "price": "69",
+                        "id": 98765432107
+                    },
+                    {
+                        "imgSrc": "https://img.meituan.net/phoenix/93ff91ab661b3f096b33651ced5691841505675.jpg@740w_416h_1e_1c",
+                        "title": "【莫吉托女孩儿】【北欧INS】毗邻中山广场 北欧INS湖景大房",
+                        "subTitle": "整套1居室·可住4人 | 中山广场、东港商务区",
+                        "symbol": "￥",
+                        "price": "99",
+                        "id": 98765432108
+                    },
+                    {
+                        "imgSrc": "http://p0.meituan.net/iphoenix/00beb2ccf357f8530a47bb5232535b2f198640.jpg@740w_416h_1e_1c",
+                        "title": "济南悦享公寓式民宿山师附中山艺山财大山大警察学院文化东路省市场监督燕山中学山东精神卫生中心燕山立交绿城兰悦艺考千佛山泉城",
+                        "subTitle": "整套1居室·可住2人 | 文化东路",
+                        "symbol": "￥",
+                        "price": "199",
+                        "id": 98765432109
+                    },
+                    {
+                        "imgSrc": "https://img.meituan.net/phoenix/1a725725eaeea5829035d181012b70251344900.jpg@740w_416h_1e_1c",
+                        "title": "【田田的房】《致你:所爱》投影摇床&火车站&大明湖&宽厚里&芙蓉街&趵突泉&万达浪漫公寓",
+                        "subTitle": "整套1居室·可住2人 | 火车站",
+                        "symbol": "￥",
+                        "price": "198",
+                        "id": 987654321010
+                    },
+                    {
+                        "imgSrc": "https://img.meituan.net/phoenix/2819f24c8eca482e0780a4e3d76d72ca481931.jpg@740w_416h_1e_1c",
+                        "title": "高新万达绿色纱幔高层观景圆床房",
+                        "subTitle": "整套1居室·可住2人 | 高新会展中心",
+                        "symbol": "￥",
+                        "price": "98",
+                        "id": 987654321011
+                    },
+                    {
+                        "imgSrc": "https://img.meituan.net/iphoenix/977c4e16f98e2dd4345170a696e68bd044678.jpg@740w_416h_1e_1c",
+                        "title": "泉城广场-/近济南火车站北广场店/楼下公交车K91直达途经大明湖，五龙泉，趵突泉，黑虎泉，解放阁，宽厚里步行街。",
+                        "subTitle": "整套1居室·可住2人 | k88",
+                        "symbol": "￥",
+                        "price": "140",
+                        "id": 987654321012
+                    }
+                ],
+                "bool": false
+            },
+            {
+                "contentArr": [
+                    {
+                        "imgSrc": "http://p1.meituan.net/iphoenix/1431515cb8092ac20dead528f51fe5855397075.jpg@740w_416h_1e_1c",
+                        "title": "星海大观舒适大床房",
+                        "subTitle": "整套1居室·可住2人 | 星海广场、大连森林动物园",
+                        "symbol": "￥",
+                        "price": "69",
+                        "id": 987654321013
+                    },
+                    {
+                        "imgSrc": "https://img.meituan.net/phoenix/93ff91ab661b3f096b33651ced5691841505675.jpg@740w_416h_1e_1c",
+                        "title": "【莫吉托女孩儿】【北欧INS】毗邻中山广场 北欧INS湖景大房",
+                        "subTitle": "整套1居室·可住4人 | 中山广场、东港商务区",
+                        "symbol": "￥",
+                        "price": "99",
+                        "id": 987654321014
+                    },
+                    {
+                        "imgSrc": "http://p0.meituan.net/iphoenix/00beb2ccf357f8530a47bb5232535b2f198640.jpg@740w_416h_1e_1c",
+                        "title": "【 遇见】星海广场·太原街·和平广场·圣亚海洋世界·森林动物园·会展中心·落地窗景观·山景·日式风格· 大一居四人间",
+                        "subTitle": "整套1居室·可住4人 | 星海广场、大连森林动物园",
+                        "symbol": "￥",
+                        "price": "99",
+                        "id": 987654321015
+                    },
+                    {
+                        "imgSrc": "https://img.meituan.net/phoenix/c90575f21f96199e7b6d07f024ffae41111676.jpg@740w_416h_1e_1c",
+                        "title": "星海广场星海大观温馨大床房可月租",
+                        "subTitle": "整套1居室·可住2人 | 星海广场、大连森林动物园",
+                        "symbol": "￥",
+                        "price": "69",
+                        "id": 987654321016
+                    },
+                    {
+                        "imgSrc": "https://img.meituan.net/phoenix/a70958e6aff24461871bfeb728afd4f3244473.jpg@740w_416h_1e_1c",
+                        "title": "星海广场会展路 百年汇B座 豪华商务大床房",
+                        "subTitle": "整套1居室·可住2人 | 星海广场、大连森林动物园",
+                        "symbol": "￥",
+                        "price": "159",
+                        "id": 987654321017
+                    },
+                    {
+                        "imgSrc": "http://p0.meituan.net/iphoenix/d382a1635292b3634bb0fdd48d3d51be2002292.jpg@740w_416h_1e_1c",
+                        "title": "大连新月湾特惠温馨大床房",
+                        "subTitle": "整套1居室·可住2人 | 软件园、学府区",
+                        "symbol": "￥",
+                        "price": "79",
+                        "id": 987654321018
+                    }
+                ],
+                "bool": false
+            },
+            {
+                "contentArr": [
+                    {
+                        "imgSrc": "https://img.meituan.net/phoenix/cf4689d373bf105a3694f06c00853fc3186238.jpg@740w_416h_1e_1c",
+                        "title": "富士康南三门云特区、北欧风格公寓、设施齐全、旅游休闲、商务出行",
+                        "subTitle": "整套1居室·可住2人 | 富士康",
+                        "symbol": "￥",
+                        "price": "108",
+                        "id": 987654321019
+                    },
+                    {
+                        "imgSrc": "https://img.meituan.net/phoenix/4b6bf08c1a362e3a887e115ced948e98291652.jpg@740w_416h_1e_1c",
+                        "title": "普通阳光大床房",
+                        "subTitle": "整套1居室·可住2人 | 火车站",
+                        "symbol": "￥",
+                        "price": "58",
+                        "id": 987654321020
+                    },
+                    {
+                        "imgSrc": "https://img.meituan.net/phoenix/b37dbaa2d5dbd6669535fa60106cb9391195016.jpg@740w_416h_1e_1c",
+                        "title": "近高铁（太原南）站，建南汽车站，白云寺，精神卫生中心，清新风落地窗公寓",
+                        "subTitle": "整套1居室·可住2人 |",
+                        "symbol": "￥",
+                        "price": "108",
+                        "id": 987654321021
+                    },
+                    {
+                        "imgSrc": "http://p0.meituan.net/iphoenix/579a3f98132eb11f2800b21e71e0a0e710632387.jpg@740w_416h_1e_1c",
+                        "title": "【友家】万象城|长风商务区|购物方便|【一居】",
+                        "subTitle": "整套1居室·可住2人 | 长风商务区",
+                        "symbol": "￥",
+                        "price": "199",
+                        "id": 987654321022
+                    },
+                    {
+                        "imgSrc": "https://img.meituan.net/phoenix/ce5bbe630af2c42cfde0bfb11b3539c74039854.jpg@740w_416h_1e_1c",
+                        "title": "【YIMI民宿】万达中心医院北大街55寸4k巨幕影院客厅电脑美式北欧混搭精装大床房智能门锁自住入住",
+                        "subTitle": "整套1居室·可住2人 | 万达广场",
+                        "symbol": "￥",
+                        "price": "179",
+                        "id": 987654321023
+                    },
+                    {
+                        "imgSrc": "https://img.meituan.net/phoenix/6b1db28bf7f09642360196f1f25dda5b52717.jpg@740w_416h_1e_1c",
+                        "title": "山西省肿瘤医院/近火车站、柳巷、高速口两居室",
+                        "subTitle": "整套2居室·可住4人 | 省三院",
+                        "symbol": "￥",
+                        "price": "186",
+                        "id": 987654321024
+                    }
+                ],
+                "bool": false
+            },
+            {
+                "contentArr": [
+                    {
+                        "imgSrc": "https://img.meituan.net/phoenix/adf32606235989c162312201ea13e7ce1028726.jpg@740w_416h_1e_1c",
+                        "title": "中山西路西王地铁站精装，安静，简单，温馨，家的感受",
+                        "subTitle": "整套1居室·可住2人 |",
+                        "symbol": "￥",
+                        "price": "60",
+                        "id": 987654321025
+                    },
+                    {
+                        "imgSrc": "http://p1.meituan.net/phoenix/9438fab1dda993e6277f498edc89fb3d1492630.jpg@740w_416h_1e_1c",
+                        "title": "【夏朵家 贰】 新房特惠/勒泰北国地铁口/波希米亚复古风/巨幕投影",
+                        "subTitle": "整套1居室·可住2人 | 北国商城",
+                        "symbol": "￥",
+                        "price": "228",
+                        "id": 987654321026
+                    },
+                    {
+                        "imgSrc": "https://img.meituan.net/phoenix/743427e1b2d7dfdd6debcd1ebf1f04b6612759.jpg@740w_416h_1e_1c",
+                        "title": "【空白の森】恒大御景半岛/轻简宜家/飘窗公寓ins风清新零压，近机场，BUS车站，近北国万达勒泰，正定",
+                        "subTitle": "整套1居室·可住2人 |",
+                        "symbol": "￥",
+                        "price": "148",
+                        "id": 987654321027
+                    },
+                    {
+                        "imgSrc": "https://img.meituan.net/phoenix/650071e9f97e434f88f31431192671d0327815.jpg@740w_416h_1e_1c",
+                        "title": "万达广场小息艺宿LitteRest（小仙女）投影房（含地暖）",
+                        "subTitle": "整套1居室·可住2人 | 万达广场南",
+                        "symbol": "￥",
+                        "price": "198",
+                        "id": 987654321028
+                    },
+                    {
+                        "imgSrc": "https://img.meituan.net/phoenix/8be2f0e90979131ba08fa31006ac2f83352157.jpg@740w_416h_1e_1c",
+                        "title": "信息工程学院附近，四院附近，温馨大两居",
+                        "subTitle": "整套2居室·可住5人 | 开发区",
+                        "symbol": "￥",
+                        "price": "285",
+                        "id": 987654321029
+                    },
+                    {
+                        "imgSrc": "https://img.meituan.net/phoenix/8be2f0e90979131ba08fa31006ac2f83352157.jpg@740w_416h_1e_1c",
+                        "title": "梦见鲸鹿 蓝欧小居 巨幕电影房",
+                        "subTitle": "整套1居室·可住2人 | 东明国际广场",
+                        "symbol": "￥",
+                        "price": "148",
+                        "id": 987654321030
+                    }
+                ],
+                "bool": false
+            },
+            {
+                "contentArr": [
+                    {
+                        "imgSrc": "http://p0.meituan.net/iphoenix/717d6eb5b5cd2d9d04b5c09b6c183c3b3042013.jpg@740w_416h_1e_1c",
+                        "title": "臻海•逸品学生专享房•金海湾森林逸城(近燕大/东油)",
+                        "subTitle": "整套1居室·可住2人 |",
+                        "symbol": "￥",
+                        "price": "90",
+                        "id": 987654321031
+                    },
+                    {
+                        "imgSrc": "https://img.meituan.net/phoenix/eedb4a9ab572f6d12cda5d128e2f44162813680.jpg@740w_416h_1e_1c",
+                        "title": "「远洋海逸世家」高层瞰海公寓",
+                        "subTitle": "整套1居室·可住2人 | 东北大学",
+                        "symbol": "￥",
+                        "price": "50",
+                        "id": 987654321032
+                    },
+                    {
+                        "imgSrc": "https://img.meituan.net/phoenix/0dfe86cdde32271eddfd76bb00579c29497622.jpg@740w_416h_1e_1c",
+                        "title": "晟禾地中海风格公寓",
+                        "subTitle": "整套1居室·可住2人 | 燕山路",
+                        "symbol": "￥",
+                        "price": "108",
+                        "id": 987654321033
+                    },
+                    {
+                        "imgSrc": "https://img.meituan.net/phoenix/218ff6ca2d493b54544d72fad7f3c40a2381886.jpg@740w_416h_1e_1c",
+                        "title": "仙本海景公寓观河看海/地暖/露台花园下午茶/120寸超清投影爱奇艺会员独立厨房天然气可做饭近海底世界西浴场市中心商圈",
+                        "subTitle": "整套1居室·可住4人 | 友谊路",
+                        "symbol": "￥",
+                        "price": "208",
+                        "id": 987654321034
+                    },
+                    {
+                        "imgSrc": "https://img.meituan.net/iphoenix/82c5b4e429951863fba679f2885b442d108753.jpg@740w_416h_1e_1c",
+                        "title": "北戴河刘庄李建军客栈大床房（优惠特价门票）",
+                        "subTitle": "整套1居室·可住2人 | 刘庄",
+                        "symbol": "￥",
+                        "price": "68",
+                        "id": 987654321035
+                    },
+                    {
+                        "imgSrc": "http://p0.meituan.net/iphoenix/46580525d155e9b62afc101bababafa71518292.jpg@740w_416h_1e_1c",
+                        "title": "精选双标间（清新文艺小民宿，阳光大海踩沙滩，吃着海鲜tree new bee）",
+                        "subTitle": "整套1居室·可住2人 | 草厂",
+                        "symbol": "￥",
+                        "price": "48",
+                        "id": 987654321036
+                    }
+                ],
+                "bool": false
+            },
+            {
+                "contentArr": [
+                    {
+                        "imgSrc": "https://img.meituan.net/phoenix/5805c7e504b4ae273a66cc17ea405578765753.jpg@740w_416h_1e_1c",
+                        "title": "小半•民宿生活",
+                        "subTitle": "整套2居室·可住3人 | 南区",
+                        "symbol": "￥",
+                        "price": "138",
+                        "id": 987654321037
+                    },
+                    {
+                        "imgSrc": "https://img.meituan.net/phoenix/875bce13a842633164e13456c1b3b3cf427411.jpg@740w_416h_1e_1c",
+                        "title": "【米宿】金宇新天地—梦幻爱丽丝网红吊床影院房",
+                        "subTitle": "整套1居室·可住2人 | 嘉茂购物中心",
+                        "symbol": "￥",
+                        "price": "198",
+                        "id": 987654321038
+                    },
+                    {
+                        "imgSrc": "https://img.meituan.net/phoenix/88da6a090487272100d817302b7608b51207266.jpg@740w_416h_1e_1c",
+                        "title": "万达广场.巨幕投影.欧式经典.影视会员.清荷短租",
+                        "subTitle": "整套1居室·可住2人 | 长乐宫万达",
+                        "symbol": "￥",
+                        "price": "215",
+                        "id": 987654321039
+                    },
+                    {
+                        "imgSrc": "https://img.meituan.net/phoenix/869367916680746778786d4667561d76917267.jpg@740w_416h_1e_1c",
+                        "title": "青苹果乐园",
+                        "subTitle": "整套1居室·可住2人 | 南区",
+                        "symbol": "￥",
+                        "price": "138",
+                        "id": 987654321040
+                    },
+                    {
+                        "imgSrc": "https://img.meituan.net/phoenix/c35fad17dfde0cbd878ecce0c6153895760950.jpg@740w_416h_1e_1c",
+                        "title": "【壹月壹•简约】内大南校区/创业学院/湿地公园/昭君路",
+                        "subTitle": "整套1居室·可住2人 | 南区",
+                        "symbol": "￥",
+                        "price": "139",
+                        "id": 987654321041
+                    },
+                    {
+                        "imgSrc": "http://p0.meituan.net/iphoenix/94c090f31d3863a5e0aa9dbf6cbb1935187652.jpg@740w_416h_1e_1c",
+                        "title": "『 周年庆 』【C 范思哲】绿地腾飞大厦投影美宿/内蒙政府/金隅环球金融中心/绿地蓝海大厦/智能音箱/万达/摩尔城",
+                        "subTitle": "整套1居室·可住2人 | 绿地美食广场",
+                        "symbol": "￥",
+                        "price": "218",
+                        "id": 987654321042
+                    }
+                ],
+                "bool": false
+            },
+            {
+                "contentArr": [
+                    {
+                        "imgSrc": "https://img.meituan.net/phoenix/836567152770b57e8db231a00a8894c7532222.jpg@740w_416h_1e_1c",
+                        "title": "高密市福缘居民宿湖滨花园大学校区房，风景优美。小区绿化面积大。智能居家",
+                        "subTitle": "整套1居室·可住3人 |",
+                        "symbol": "￥",
+                        "price": "108",
+                        "id": 987654321043
+                    },
+                    {
+                        "imgSrc": "https://img.meituan.net/phoenix/46b483373642bdd32888cf04338ade864352054.jpg@740w_416h_1e_1c",
+                        "title": "（牵手）近火车站中百泰华，经贸学院，可做饭，大屏投影，智能门锁，阳光温馨大床房",
+                        "subTitle": "整套1居室·可住2人 | 火车站/汽车站",
+                        "symbol": "￥",
+                        "price": "148",
+                        "id": 987654321044
+                    },
+                    {
+                        "imgSrc": "https://img.meituan.net/phoenix/2fb6de8c9bfc57b6e95fc3a1660ee7de359390.jpg@740w_416h_1e_1c",
+                        "title": "逸佳暖爱民宿高密中百2号楼落地窗公寓，临近中百超市饭店餐厅，维客超市，银座超市，智能家居",
+                        "subTitle": "整套1居室·可住2人 | 中百大厦",
+                        "symbol": "￥",
+                        "price": "68",
+                        "id": 987654321045
+                    },
+                    {
+                        "imgSrc": "https://img.meituan.net/phoenix/ae1bd60fda913015aadb542c39a0a8e0114469.jpg@740w_416h_1e_1c",
+                        "title": "潍坊学院北门简约小公寓",
+                        "subTitle": "整套1居室·可住2人 | 市政府/富华会展中心",
+                        "symbol": "￥",
+                        "price": "109",
+                        "id": 987654321046
+                    },
+                    {
+                        "imgSrc": "https://img.meituan.net/phoenix/524d4e9a00417f63025b2884099da0c24794124.jpg@740w_416h_1e_1c",
+                        "title": "泰华精装复古拍照吊椅投影公寓",
+                        "subTitle": "整套1居室·可住2人 | 风筝广场/万达商圈",
+                        "symbol": "￥",
+                        "price": "138",
+                        "id": 987654321047
+                    },
+                    {
+                        "imgSrc": "https://img.meituan.net/phoenix/fb68bf4f532066a19d5ff09ef9c0525c473633.jpg@740w_416h_1e_1c",
+                        "title": "泰华城假日广场｜北欧少女风｜荣观华府",
+                        "subTitle": "整套1居室·可住2人 | 风筝广场/万达商圈",
+                        "symbol": "￥",
+                        "price": "158",
+                        "id": 987654321048
+                    }
+                ],
+                "bool": false
+            },
+            {
+                "contentArr": [
+                    {
+                        "imgSrc": "https://img.meituan.net/phoenix/e606a24b7fdf47c4fdebb6131963326198145.jpg@740w_416h_1e_1c",
+                        "title": "八方商圈便利温馨一居",
+                        "subTitle": "整套1居室·可住2人 | 爱琴海",
+                        "symbol": "￥",
+                        "price": "38",
+                        "id": 987654321049
+                    },
+                    {
+                        "imgSrc": "https://img.meituan.net/phoenix/cd236e675584d146b147ee1d30da4a13283786.jpg@740w_416h_1e_1c",
+                        "title": "小橙子暖心公寓",
+                        "subTitle": "整套1居室·可住2人 | 君和广场",
+                        "symbol": "￥",
+                        "price": "99",
+                        "id": 987654321050
+                    },
+                    {
+                        "imgSrc": "https://img.meituan.net/phoenix/f29545dccc2532f41112ba4cc495018f616435.jpg@740w_416h_1e_1c",
+                        "title": "爱琴海 18点入住 不可连住 如需连住请于房东提前确认",
+                        "subTitle": "整套1居室·可住2人 | 爱琴海",
+                        "symbol": "￥",
+                        "price": "118",
+                        "id": 987654321051
+                    },
+                    {
+                        "imgSrc": "https://img.meituan.net/phoenix/346a61f2305c754a960f5695800219541334751.jpg@740w_416h_1e_1c",
+                        "title": "宜居客民宿，666夜光璀璨星空！好采光，您住宿的心仪房！",
+                        "subTitle": "整套1居室·可住2人 | 凤城国际",
+                        "symbol": "￥",
+                        "price": "99",
+                        "id": 987654321052
+                    },
+                    {
+                        "imgSrc": "https://img.meituan.net/phoenix/b8212e39286403f012ed4b95b3509fb751980.jpg@740w_416h_1e_1c",
+                        "title": "丰润园北小区可做饭民宿情侣房",
+                        "subTitle": "整套1居室·可住2人 | 丰润新区",
+                        "symbol": "￥",
+                        "price": "130",
+                        "id": 987654321053
+                    },
+                    {
+                        "imgSrc": "https://img.meituan.net/phoenix/6dfda9b6fd6e9c1bbf0c6a6625b4ab1c511983.jpg@740w_416h_1e_1c",
+                        "title": "唐海云云快捷日租房",
+                        "subTitle": "整套2居室·可住6人 | 曹妃甸区中心城区",
+                        "symbol": "￥",
+                        "price": "118",
+                        "id": 987654321054
+                    }
+                ],
+                "bool": false
+            },
+            {
+                "contentArr": [
+                    {
+                        "imgSrc": "http://p1.meituan.net/iphoenix/87bcbf87964b70b4dcf8d49dd495ebea1173952.jpg@740w_416h_1e_1c",
+                        "title": "泰安万达广场欧式观景大床房",
+                        "subTitle": "整套1居室·可住2人 | 万达广场东区",
+                        "symbol": "￥",
+                        "price": "108",
+                        "id": 987654321055
+                    },
+                    {
+                        "imgSrc": "https://img.meituan.net/phoenix/d8265bf9c9696e0e6d04b9f69aa1b9311075014.jpg@740w_416h_1e_1c",
+                        "title": "山与民宿 万达广场 原木风 吊床 大投影家庭影院 山景 近高铁 火车站",
+                        "subTitle": "整套1居室·可住2人 | 万达广场西区",
+                        "symbol": "￥",
+                        "price": "189",
+                        "id": 987654321056
+                    },
+                    {
+                        "imgSrc": "https://img.meituan.net/phoenix/c061d7784fa125a7868964b750d394ce1404279.jpg@740w_416h_1e_1c",
+                        "title": "【荔枝民宿 乐园】梦幻艺术空间 万达广场 近高铁站 火车站 国际会展中心 泰山登山口",
+                        "subTitle": "整套1居室·可住2人 | 万达广场西区",
+                        "symbol": "￥",
+                        "price": "168",
+                        "id": 987654321057
+                    },
+                    {
+                        "imgSrc": "https://img.meituan.net/phoenix/4411193fee6bfc16834f080d6c97f2d2466332.jpg@740w_416h_1e_1c",
+                        "title": "花漾年华【紧邻泰山站、汽车站】【拎包入住】【免费停车】【一室一卫】【天外村、红门】【商圈】",
+                        "subTitle": "整套1居室·可住2人 | 火车站广场",
+                        "symbol": "￥",
+                        "price": "128",
+                        "id": 987654321058
+                    },
+                    {
+                        "imgSrc": "http://p1.meituan.net/iphoenix/c000d7ecde291f3389048c66fcaa47629214159.jpg@740w_416h_1e_1c",
+                        "title": "会展中心旁，万达广场内北欧温馨家庭房",
+                        "subTitle": "整套1居室·可住4人 | 万达广场东区",
+                        "symbol": "￥",
+                        "price": "108",
+                        "id": 987654321059
+                    },
+                    {
+                        "imgSrc": "https://img.meituan.net/phoenix/1ec832c52f4e3d0644c5c63883751f251184020.jpg@740w_416h_1e_1c",
+                        "title": "【云朵】泰山脚下民宿｜紧邻泰山站汽车站｜清新淡雅｜Ins风｜榻榻米｜智能门锁｜可私人定制告白｜生日｜节日主题",
+                        "subTitle": "整套1居室·可住2人 | 火车站广场",
+                        "symbol": "￥",
+                        "price": "95",
+                        "id": 987654321060
+                    }
+                ],
+                "bool": false
+            }
+        ]
+    }
+}
+
+
+
